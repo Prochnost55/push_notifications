@@ -1,0 +1,16 @@
+{
+  "name": "push-notification-server",
+  "version": "0.0.1",
+  "description": "POC push notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "web-push": "^3.4.5"
+  }
+}
